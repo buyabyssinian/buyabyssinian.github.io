@@ -3,6 +3,7 @@
 body {
     background: linear-gradient(90deg, #2014DC 0%, #230909 100%);
     font-family: Michroma, serif;
+    font-size: x-large;
 }
 
 p {
